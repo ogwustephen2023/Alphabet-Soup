@@ -1,6 +1,6 @@
-# Word_soup
 
-Alphabet Soup
+
+#Alphabet Soup
 
 You have been contracted from a newspaper tasked with the job of providing an answer key to their word search for the Sunday print. The newspaper's word search is a traditional game consisting of a grid of characters in which a selection of words have been hidden. You are provided with the list of words that have been hidden and must find the words within the grid of characters.
 
